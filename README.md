@@ -8,6 +8,8 @@ Automatically recover sales tax from email receipts and create Quicken-ready spl
 
 **This project is not affiliated with or endorsed by Quicken.**
 
+As of July 2026 I have some 20-25 separate vendor handlers for receipts or invoices from major merchants.  Receipts in email matched to Quicken transactions from the QIF are automatically saved to EML and PDF with a helpful name for long term digital storage.  I have also added a "request receipt" process to associate transactions needing receipts with people in your household based on the vendor/payee name or the account name.  The system can also handle accounts that Quicken cannot directly pull transactions for such as store credit cards, associating their monthly payment cycles with the relevant receipts that are in your inbox.
+
 ## Overview
 
 ByteTheTaxman helps taxpayers track deductible sales tax purchases by automatically matching financial transactions with emailed receipts.
