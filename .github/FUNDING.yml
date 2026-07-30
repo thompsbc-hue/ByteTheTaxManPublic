@@ -1,0 +1,12 @@
+# .github/FUNDING.yml
+# Configuration file for repository sponsorship platforms
+
+# Enable GitHub Sponsors for specific usernames or organizations
+github: thompsbc-hue
+
+# Enable external crowdfunding platforms (replace with your actual handles)
+
+# Provide custom links for alternative payment methods (maximum of 4 links)
+custom: [
+  "https://support.claude.com/en/articles/12938627-how-to-gift-a-claude-subscription"
+]
